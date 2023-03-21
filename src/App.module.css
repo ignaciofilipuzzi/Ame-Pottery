@@ -1,0 +1,30 @@
+.greetings{
+  color: white;
+}
+
+.sub-title{
+  margin-top: 1.5rem;
+  color: #99C8F0;
+  text-decoration: underline;
+}
+
+.cart-widget-div{
+  padding-right: 15px;
+}
+
+.cart-icon{
+  height: 50px;
+  width: 50px;
+}
+
+.bubble-icon{
+  position: absolute;
+  top: 1px;
+  right: 63px;
+  padding: 2px 5px 2px 6px;
+  color: black;
+  background-color: green;
+  font-size: 0.7em;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px grey;
+}
